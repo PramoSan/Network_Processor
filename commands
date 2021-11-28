@@ -4,3 +4,8 @@ cd Network_Processor
 git init
 git status
 
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/PramoSan/Network_Processor.git
+git push origin main
+
